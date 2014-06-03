@@ -1,0 +1,15 @@
+{
+  "name": "atom-jekyll",
+  "main": "./lib/atom-jekyll",
+  "version": "0.0.0",
+  "private": true,
+  "description": "Jekyll preview within atom",
+  "activationEvents": ["atom-jekyll:start_jekyll"],
+  "repository": "https://github.com/dileepbapat/atom-jekyll",
+  "license": "MIT",
+  "engines": {
+    "atom": ">0.39.0"
+  },
+  "dependencies": {
+  }
+}
